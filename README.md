@@ -1,3 +1,4 @@
 # Python_beginner_projects
-This is for beginner level projects.
-Anyone can contribute here.
+This repo is for beginner beginner in python. you will find many basic scripts in this repo.
+
+Contributions are welcome!
